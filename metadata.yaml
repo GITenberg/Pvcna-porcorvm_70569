@@ -1,0 +1,34 @@
+_repo: Pvcna-porcorvm_70569
+_version: 0.0.1
+alternative_title: Pucna porcorum
+creator:
+  author:
+    agent_name: Placentius, Jean-Leo
+    aliases:
+    - Le Plaisant, Jean-Leo
+    - Plaisant, Jean-Leo Le
+    - Placentius, Joannes Leo
+    - Placentius, Johannes
+    gutenberg_agent_id: '55801'
+    url: http://www.gutenberg.org/2009/agents/55801
+    wikipedia: https://fr.wikipedia.org/wiki/Johannes_Placentius
+description: ''
+gutenberg_issued: '2023-04-16'
+identifiers:
+  gutenberg: '70569'
+language: la
+pgterms:marc905: 20220731094310placentius
+pgterms:marc906: '1540'
+pgterms:marc907: NL
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNetherlands :$bPeter van Elsen, $c1540.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Latin poetry -- Early works to 1800'
+- !lcc 'PA'
+- GITenberg
+title: Pvcna porcorvm
+url: http://www.gutenberg.org/ebooks/70569
