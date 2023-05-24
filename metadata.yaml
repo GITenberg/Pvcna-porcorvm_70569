@@ -1,6 +1,9 @@
 _repo: Pvcna-porcorvm_70569
 _version: 0.1.0
 alternative_title: Pucna porcorum
+covers:
+- cover_type: archival
+  image_path: 70569-h/images/cover.jpg
 creator:
   author:
     agent_name: Placentius, Jean-Leo
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55801
     wikipedia: https://fr.wikipedia.org/wiki/Johannes_Placentius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70569#Pvcna-porcorvm
 gutenberg_issued: '2023-04-16'
 identifiers:
   gutenberg: '70569'
